@@ -25,6 +25,7 @@ $obj->setvalue("Arcoo");
 $obj2->setvalue("arcoo.ir");
 
 
+
 echo $obj->getName();
 echo $obj2->getName();
 
