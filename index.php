@@ -20,7 +20,7 @@ $obj = new MyClass;
 $obj2 = new MyClass();
 $obj3 = new MyClass();
 $obj4 = new MyClass();
-
+$obj5 = new MyClass();
 
 
 echo $obj->getName();
